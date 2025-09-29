@@ -26,9 +26,6 @@ I love solving complex problems, leading technical initiatives, and building too
 ## 🌟 Recent Highlights
 
 ### 🔹 Lantern Studios (2023–Present)
-- Designed and implemented a **GenAI application** for the Alberta Utilities Commission using **Azure AI**, combining **Vector RAG** and **GraphRAG** for intelligent search across thousands of regulatory documents.  
-- Modernized and migrated on-prem applications to a **unified Azure cloud solution (CUBI 2.0)** for Credit Union Deposit Guarantee Corporation.  
-- Reduced development time of 400+ financial rules by **80%** using **GitHub Copilot** for implementation and testing.  
 
 ### 🔹 Shopify (2022–2023)
 - Built and launched **Shopify Audiences**, helping merchants generate targeted ad audiences for **Facebook, Google, Pinterest**.  
