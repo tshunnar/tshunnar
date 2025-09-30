@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thaer Shunnar
+# Hi, I'm Thaer Shunnar
 
 💻 **Software Engineer | Full Stack Developer | Systems Integration Specialist**  
 📍 Calgary, AB | 📧 t.shunnar@hotmail.com  
@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-With over **12 years of software development experience**, I specialize in **full stack development** and **systems integration**.  
+With over **15 years of software development experience**, I specialize in **full stack development** and **systems integration**.  
 I’ve worked with enterprise-scale systems, modern cloud solutions, and cutting-edge applications that bridge business needs with scalable technology.  
 
 I love solving complex problems, leading technical initiatives, and building tools that make a real impact for both businesses and end users.  
@@ -28,15 +28,8 @@ I love solving complex problems, leading technical initiatives, and building too
 ### 🔹 Lantern Studios (2023–Present)
 
 ### 🔹 Shopify (2022–2023)
-- Built and launched **Shopify Audiences**, helping merchants generate targeted ad audiences for **Facebook, Google, Pinterest**.  
-- Improved API performance by reducing failed requests to **near 0%** and optimized Bigtable storage for **50M+ daily records**.  
-- Migrated 450+ observability objects from **DataDog to Observe** in 4 weeks, improving system monitoring and debugging.  
-- Increased customer retention by **50%** by developing an **email notification system** for audience updates.  
 
 ### 🔹 Spartan Controls (2011–2022)
-- Led integration of **ERP and external procurement/shipping systems** handling millions in daily purchase orders.  
-- Executed a **full ERP migration** with minimal downtime, leading a data team to ensure smooth transition.  
-- Designed multiple ERP/CRM modules, from **resource planning** to **commission systems**.  
 
 ---
 
