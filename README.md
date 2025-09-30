@@ -42,7 +42,6 @@ I love solving complex problems, leading technical initiatives, and building too
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/thaershunnar/)
-- 📧 t.shunnar@hotmail.com  
 
 ---
 
